@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edGuilherme
-- 👀 I’m interested in .Web design
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m interested in Web design and Coding 
+- 🌱 I’m currently learning HTML, CSS and Javascript // Python 
 - 📫 How to reach me: edfergui@gmail.com
 
 <!---
