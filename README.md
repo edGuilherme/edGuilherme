@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @edGuilherme
-- 👀 I’m interested in Web design and Coding 
-- 🌱 I’m currently learning HTML, CSS and Javascript // Python 
+- 👋 Hi, I’m Ed. Guilherme
+- 👀 I’m interested in Web Development (Front and Back-end), Mobile Development and Coding in general 
+- 🌱 I’m currently learning HTML, CSS and Javascript // React, NodeJs // Kotlin (Android Studio) // Java (Web Application with JSP and Servlets) and Python (Flask)
 - 📫 How to reach me: edfergui@gmail.com
 
 <!---
